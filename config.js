@@ -1,0 +1,7 @@
+module.exports={
+GOOGLE_CLIENT_EMAIL: "",
+GOOGLE_PRIVATE_KEY: "",
+GOOGLE_PROYECT_ID: "",
+DF_LANGUAGE_CODE: ""
+}
+
